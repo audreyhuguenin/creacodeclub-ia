@@ -27,12 +27,12 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | IA transformant une photo en oeuvre d'art avec un style choisis | https://deepart.io/# | IA
 | Quelques expérience de NVidia permettant de générer des images ou des morceau d'image | https://www.nvidia.com/en-us/research/ai-playground/ | IA
 | Obama Deep Fake | https://youtu.be/cQ54GDm1eL0 | IA
-|
+| Nicolas Cage Deep Fake | https://upload.wikimedia.org/wikipedia/en/7/71/Deepfake_example.gif
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTMwNDA1LDExMDgzNDI0MjEsMzU4Nj
-U2MjQyLC0xMjk0NzgzNDA3LC0yMDA5NjM4MzU2LDczNTY3MjE0
-MCwxNTQxNjExNzQsLTk4ODIxMjAyNiwtMTc3MjI1OTQxNCwtOT
-MzMTcxNjI3XX0=
+eyJoaXN0b3J5IjpbLTE3NzEyODE4NjksMTEwODM0MjQyMSwzNT
+g2NTYyNDIsLTEyOTQ3ODM0MDcsLTIwMDk2MzgzNTYsNzM1Njcy
+MTQwLDE1NDE2MTE3NCwtOTg4MjEyMDI2LC0xNzcyMjU5NDE0LC
+05MzMxNzE2MjddfQ==
 -->
