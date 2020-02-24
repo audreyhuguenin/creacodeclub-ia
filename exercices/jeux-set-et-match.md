@@ -14,7 +14,7 @@ L'exercice comprend une liste de système fonctionnant avec du Machine Learning.
 
 ## Contenu de l'exercice
 
-### Document de l'exercice
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTk4MDNdfQ==
+eyJoaXN0b3J5IjpbLTE5OTgxNTIxMDddfQ==
 -->
