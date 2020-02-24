@@ -97,12 +97,13 @@ Leurs expliquer le principe de fonctionnement des système de recommandation ave
 
 Discuter avec eux des problèmes que cela peut engendrer:
 - Que se passe-t-il si l'on ne consomme que du contenu qui nous plaît ou pourrait nous plaire ?
-- Que se passe-t-il quan
 
-Leur parler des bulles de filtrage et des problème que cela peut engendrer (prendre l'exemple concret des recommandation YouTube).
+Leur parler des bulles de filtrage et des problème que cela peut engendrer (prendre l'exemple concret des recommandation YouTube) :
+- Que se passe-t-il du point de vue de l'esprit critique ?
+- Quel est le problème de ne pas être confronté à d'autre point de vue ?
 
 Leur faire faire l'exercice ["Dans ma bulle"](./exercices/dans-ma-bulle.md) et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyMjI0ODgxLDE4NTM0NDU2MjEsNDYwOD
-cwODY1LDE5MzQ3MTExMDBdfQ==
+eyJoaXN0b3J5IjpbMTMwNTk2MTI5MywxODUzNDQ1NjIxLDQ2MD
+g3MDg2NSwxOTM0NzExMTAwXX0=
 -->
