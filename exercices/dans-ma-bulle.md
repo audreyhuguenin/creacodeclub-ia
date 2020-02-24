@@ -15,7 +15,6 @@ L'exercice comprend une liste de système utilisant ou non un système de recomm
 
 ## Contenu de l'exercice
 
-## Document de l'exercice
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzY1MzU4Nl19
+eyJoaXN0b3J5IjpbMTcwNDg4MjE5OV19
 -->
