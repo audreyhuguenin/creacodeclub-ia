@@ -86,7 +86,8 @@ Discuter avec les étudiants sur les points suivants en les guidant dans leurs r
 Présenter les vidéos et les images du support de cours et demander aux étudiants ce qu'ils en pensent. Après leur avoir révéler que aucune des images et vidéos étaient toutes réalisée par une IA, observer leurs réactions. 
 
 Discuter avec eux sur les sujets suivants:
-- Faut-il toujours croire une image, 
+- Faut-il toujours croire un son, une image ou une vidéo ?
+- Que pensez-vous de ces technologies ? Est-ce plutôt bien ou mal ? Qu'en feriez-vous ?
 
  effectuer l'exercice ["Voir n'est pas croire"](./exercices/voir-nest-pas-croire.md)
 
@@ -100,6 +101,6 @@ Leur parler des bulles de filtrage et des problème que cela peut engendrer (pre
 
 Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NjEzODA0LDE4NTM0NDU2MjEsNDYwOD
-cwODY1LDE5MzQ3MTExMDBdfQ==
+eyJoaXN0b3J5IjpbLTIwNTM4OTMzODAsMTg1MzQ0NTYyMSw0Nj
+A4NzA4NjUsMTkzNDcxMTEwMF19
 -->
