@@ -13,7 +13,8 @@ L'exercice comprend une liste de tâche et diagramme d'Euler avec des lettres. L
 
 ## Contenu de l'exercice
 
-
+| Tâches | Domaine | Explication |
+| ------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTAwMTQ2OV19
+eyJoaXN0b3J5IjpbLTEwNTc1NTk4OTddfQ==
 -->
