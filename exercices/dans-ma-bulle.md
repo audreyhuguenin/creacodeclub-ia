@@ -19,14 +19,15 @@ L'exercice comprend une liste de système utilisant ou non un système de recomm
 | ------- | ------------------------------ | ------------------- |
 | Page de recommandation YouTube | ✅ | Un mix de vidéo ressemblant à la combinaison de votre historique de recherche, de vidéo vue, de vos abonnements ainsi que des vidéos populaire étant dans les domaines de vos préférences |
 | Playlist "Vos découvertes de la semaine" sur Spotify | ✅ |  |
-| Page d'accueil FaceBook | ✅ |
-| Page recherche d'Instagram | ✅ |
-| Recommandation du Play Store / App Store | ✅ |
-| Contacts récents | |
-| "Destinations prisées" sur Booking | ✅ |
-| Flux Twitter | ✅ |
-| Pub de la page d'accueil de Google | ✅ |
+| Page d'accueil FaceBook | ✅ | |
+| Page recherche d'Instagram | ✅ | |
+| Recommandation du Play Store / App Store | ✅ | |
+| Contacts récents | | |
+| "Destinations prisées" sur Booking | ✅ | |
+| Flux Twitter | ✅ | |
+| Pub de la page d'accueil de Google | ✅ | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDk1MjY2MSwxNzA0ODgyMTk5XX0=
+eyJoaXN0b3J5IjpbLTE5NzczODY2NDksLTY4MDk1MjY2MSwxNz
+A0ODgyMTk5XX0=
 -->
