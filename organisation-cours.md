@@ -95,12 +95,14 @@ Discuter avec eux sur les sujets suivants:
 
 Leurs expliquer le principe de fonctionnement des système de recommandation avec l'exemple concret de la recommandation de musique.
 
-Discuter avec eux des problèmes que cela peut engendrer
+Discuter avec eux des problèmes que cela peut engendrer:
+- Que se passe-t-il si l'on ne consomme que du contenu qui nous plaît ou pourrait nous plaire ?
+- Que se passe-t-il quan
 
 Leur parler des bulles de filtrage et des problème que cela peut engendrer (prendre l'exemple concret des recommandation YouTube).
 
 Leur faire faire l'exercice ["Dans ma bulle"](./exercices/dans-ma-bulle.md) et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU2NTIwMjgsMTg1MzQ0NTYyMSw0Nj
-A4NzA4NjUsMTkzNDcxMTEwMF19
+eyJoaXN0b3J5IjpbMzUyMjI0ODgxLDE4NTM0NDU2MjEsNDYwOD
+cwODY1LDE5MzQ3MTExMDBdfQ==
 -->
