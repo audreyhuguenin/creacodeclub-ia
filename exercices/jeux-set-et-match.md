@@ -20,8 +20,9 @@ L'exercice comprend une liste de système fonctionnant avec du Machine Learning.
 | Filtre Snapchat | Des visages sans et avec le filtre appliqué | un visage avec le filtre appliqué |
 | Réponse suggérée dans Gmail | Des mails avec leurs réponses | Une réponse suggérée par rapport au mail courant |
 | Auto-complétion de recherche (Google, Bing, ...) | Toute les recherches commençant de la même façon que celle effectuée avec la recherche réellement effectuée | toutes les recherche pouvant correspondre à notre recherche
-| 
+| Suggestion d'Emoji à la place d'un mot | Un ensemble de mot avec leur emoji corres 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTcyMDY0LC0xOTk4MTUyMTA3XX0=
+eyJoaXN0b3J5IjpbLTEzMzQxOTEyMTMsLTE0OTcyMDY0LC0xOT
+k4MTUyMTA3XX0=
 -->
