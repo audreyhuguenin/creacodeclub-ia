@@ -19,10 +19,11 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | Description du contenu | Lien vers le contenu | IA or Not IA |
 | ---------------------- | -------------------- | ------------ |
 | API permettant de générer des visages | https://generated.photos/faces | IA
-| Site affichant un visage provenant d'une IA de manière aléatoire | https://www.thispersondoesnotexist.com/ | IA
-| Banque d'image générée par 
+| Site affichant un visage provenant d'IA de manière aléatoire | https://www.thispersondoesnotexist.com/ | IA
+| Banque d'image générée par IA | https://www.artbreeder.com/browse | IA
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3Mzg2NjYyLC0xNzcyMjU5NDE0LC05Mz
-MxNzE2MjddfQ==
+eyJoaXN0b3J5IjpbLTk4ODIxMjAyNiwtMTc3MjI1OTQxNCwtOT
+MzMTcxNjI3XX0=
 -->
