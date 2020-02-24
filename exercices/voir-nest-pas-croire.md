@@ -23,10 +23,11 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | Banque d'image générée par IA | https://www.artbreeder.com/browse | IA
 | Bot de Microsoft pouvant générer une image à partir d'une description | https://drawingbot.azurewebsites.net/ | IA
 | IA générant de la musique à partir d'autre musique | https://openai.com/blog/musenet/ | IA
+| IA générant du texte à partir d'un texte humain | https://openai.com/blog/better-language-models/ | IA
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTcwNjI2NCwxNTQxNjExNzQsLTk4OD
-IxMjAyNiwtMTc3MjI1OTQxNCwtOTMzMTcxNjI3XX0=
+eyJoaXN0b3J5IjpbNzM1NjcyMTQwLDE1NDE2MTE3NCwtOTg4Mj
+EyMDI2LC0xNzcyMjU5NDE0LC05MzMxNzE2MjddfQ==
 -->
