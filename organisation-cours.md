@@ -30,7 +30,7 @@ Ensuite, donner un exercice à faire en groupe, consistant à classifier des tâ
 
 Présenter les concepts d'IA forte et faible aux étudiants à l'aide des exemples disponibles sur le support du cours.
 
-Montrer des extraits de films/vidéo possédant une IA et demander aux étudiants de la classifier. Commenter et corriger les réponses si besoin.
+Montrer des extraits de films/vidéo (les extraits sont disponibles dans le support de cours) possédant une IA et demander aux étudiants de la classifier. Commenter et corriger les réponses si besoin.
 
 ## Récapitulation du cours
 
@@ -111,5 +111,5 @@ Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnan
 
 ## Récapitulation du cours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjYxNDM1MCwxOTM0NzExMTAwXX0=
+eyJoaXN0b3J5IjpbLTE1MzMyOTc2NzIsMTkzNDcxMTEwMF19
 -->
