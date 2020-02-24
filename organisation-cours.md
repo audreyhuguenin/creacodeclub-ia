@@ -50,9 +50,7 @@ Présenter l'énigme "Renard, Poule, Graine" à l'aide du support de cours. Fair
 
 ## Algorithme de jeux simple
 
-Présenter l'algorithme MinMax et son fonctionnement à l'aide du support de cours.
-
-Faire l'exercice "Tic Tac Toe"
+Présenter l'algorithme MinMax à l'aide du support de cours. Expliquer ces limitations actuels pour pouvoir introduire le chapitre Machine Learning
 
 ## Machine Learning
 
@@ -105,5 +103,6 @@ Leur parler des bulles de filtrage et des problème que cela peut engendrer (pre
 
 Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwODcwODY1LDE5MzQ3MTExMDBdfQ==
+eyJoaXN0b3J5IjpbLTUyOTUwMzg5MCw0NjA4NzA4NjUsMTkzND
+cxMTEwMF19
 -->
