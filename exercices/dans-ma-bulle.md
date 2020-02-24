@@ -21,13 +21,13 @@ L'exercice comprend une liste de système utilisant ou non un système de recomm
 | Playlist "Vos découvertes de la semaine" sur Spotify | ✅ | Propose une playlist dont les titres la composant sont des mixes de vos préférence musicale |
 | Page d'accueil FaceBook | ✅ | Un agrégat de pubs dont vous êtes la cible (grâce aux informations indiquée sur votre profil), de post récemment liker par vos amis, de post ressemblant a ce que vous avez précédemment liker et de que vous avez indiquer aimé sur votre profil |
 | Page recherche d'Instagram | ✅ | Une liste de profil mixant des profils ressemblant au votre et à vos profil liker ainsi que les profils les plus populaires |
-| Recommandation du Play Store / App Store | ✅ |  |
-| Contacts récents | | |
+| Recommandation du Play Store / App Store | ✔ | Des applications ressemblant à celle que vous utilisez le plus |
+| Contacts récents | ❌ | |
 | "Destinations prisées" sur Booking | ✅ | |
 | Flux Twitter | ✅ | |
 | Pub de la page d'accueil de Google | ✅ | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjMwNTM2OSwtNjgwOTUyNjYxLDE3MD
-Q4ODIxOTldfQ==
+eyJoaXN0b3J5IjpbODYzMzgxOTE0LDIwMDIzMDUzNjksLTY4MD
+k1MjY2MSwxNzA0ODgyMTk5XX0=
 -->
