@@ -17,7 +17,7 @@ L'exercice comprend une liste de système utilisant ou non un système de recomm
 ### Liste des systèmes
 | Système | Utilise un système de filtrage | Contenus recommandés |
 | ------- | ------------------------------ | ------------------- |
-| Page de recommandation YouTube | ✅ | De |
+| Page de recommandation YouTube | ✅ | Un mix de vidéo ressemblant à la combinaison de votre historique de recherche, de vidéo vue et de vos abon|
 - Page de recommandation YouTube
 - Playlist "Vos découvertes de la semaine" sur Spotify
 - Page d'accueil FaceBook
@@ -29,5 +29,5 @@ L'exercice comprend une liste de système utilisant ou non un système de recomm
 - Pub de la page d'accueil de Google
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg2NjIzMjIsMTcwNDg4MjE5OV19
+eyJoaXN0b3J5IjpbMTU1MTA0Mzk2NywxNzA0ODgyMTk5XX0=
 -->
