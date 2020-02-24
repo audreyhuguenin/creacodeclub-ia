@@ -26,11 +26,13 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | IA générant du texte à partir d'un texte humain | https://openai.com/blog/better-language-models/ | IA
 | IA transformant une photo en oeuvre d'art avec un style choisis | https://deepart.io/# | IA
 | Quelques expérience de NVidia permettant de générer des images ou des morceau d'image | https://www.nvidia.com/en-us/research/ai-playground/ | IA
+| Obama Deep Fake | https://youtu.be/cQ54GDm1eL0 | IA
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4NjU2MjQyLC0xMjk0NzgzNDA3LC0yMD
-A5NjM4MzU2LDczNTY3MjE0MCwxNTQxNjExNzQsLTk4ODIxMjAy
-NiwtMTc3MjI1OTQxNCwtOTMzMTcxNjI3XX0=
+eyJoaXN0b3J5IjpbMTEwODM0MjQyMSwzNTg2NTYyNDIsLTEyOT
+Q3ODM0MDcsLTIwMDk2MzgzNTYsNzM1NjcyMTQwLDE1NDE2MTE3
+NCwtOTg4MjEyMDI2LC0xNzcyMjU5NDE0LC05MzMxNzE2MjddfQ
+==
 -->
