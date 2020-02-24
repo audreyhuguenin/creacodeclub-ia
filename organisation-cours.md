@@ -1,8 +1,6 @@
 # Identifier l'IA
 
-Matériel: Support de cours
-
-Exercice: "IA ou ne pas IA, tel est la question", "Tâche impossible"
+[Support de cours](./supports/identifier-ia.md)
 
 ## Introduction au cours
 
@@ -85,9 +83,9 @@ Discuter avec les étudiants sur les points suivants en les guidant dans leurs r
 
 ## Ne pas croire tout ce que l'on voit
 
-Présenter les vidéos et les images "... → à trouver" et demander aux étudiants ce qu'ils en pensent. Après leur avoir révéler que aucune des images et vidéos étaient toutes réalisée par une IA, observer leurs réactions.
+Présenter les vidéos et les images du support de  et demander aux étudiants ce qu'ils en pensent. Après leur avoir révéler que aucune des images et vidéos étaient toutes réalisée par une IA, observer leurs réactions.
 
-Pour tester si cela bien connecter des neurones, effectuer l'exercice "Voir n'est pas croire"
+ effectuer l'exercice ["Voir n'est pas croire"](./exercices/voir-nest-pas-croire.md)
 
 ## Bulles de filtrage
 
@@ -99,6 +97,6 @@ Leur parler des bulles de filtrage et des problème que cela peut engendrer (pre
 
 Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzQ0NTYyMSw0NjA4NzA4NjUsMTkzND
-cxMTEwMF19
+eyJoaXN0b3J5IjpbLTU5NDA1NDY1OCwxODUzNDQ1NjIxLDQ2MD
+g3MDg2NSwxOTM0NzExMTAwXX0=
 -->
