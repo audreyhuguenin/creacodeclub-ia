@@ -22,10 +22,11 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | Site affichant un visage provenant d'IA de manière aléatoire | https://www.thispersondoesnotexist.com/ | IA
 | Banque d'image générée par IA | https://www.artbreeder.com/browse | IA
 | Bot de Microsoft pouvant générer une image à partir d'une description | https://drawingbot.azurewebsites.net/ | IA
-| 
+| IA générant de la musique à partir d'autre musique | https://openai.com/blog/musenet/ | IA
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQwNDg5MTAsMTU0MTYxMTc0LC05OD
-gyMTIwMjYsLTE3NzIyNTk0MTQsLTkzMzE3MTYyN119
+eyJoaXN0b3J5IjpbLTgwMTcwNjI2NCwxNTQxNjExNzQsLTk4OD
+IxMjAyNiwtMTc3MjI1OTQxNCwtOTMzMTcxNjI3XX0=
 -->
