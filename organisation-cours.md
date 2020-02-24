@@ -34,11 +34,7 @@ Montrer des extraits de films/vidéo (les extraits sont disponibles dans le supp
 
 # Déchiffrer le fonctionnement de l'IA
 
-Matériel: Support de cours
-
-Exercice: "Jeux, set et match !", "Tic Tac Toe"
-
-Video: "[C'est quoi l'intelligence artificielle](https://www.youtube.com/watch?v=ourd-ZeOl78)", "[IA: pourquoi vous n'avez aucune change de gagner](https://www.youtube.com/watch?v=tI2zP4Zthc8)"
+[Support de cours](./supports/dechiffrer-fonctionnement-ia.md)
 
 ## Introduction au cours
 
@@ -50,13 +46,13 @@ Présenter l'énigme "Renard, Poule, Graine" à l'aide du support de cours. Fair
 
 ## Algorithme de jeux simple
 
-Présenter l'algorithme MinMax à l'aide du support de cours. Expliquer ces limitations actuels pour pouvoir introduire le chapitre Machine Learning
+Présenter l'algorithme MinMax à l'aide du support de cours. Expliquer ces limitations actuels pour pouvoir introduire le chapitre Machine Learning.
 
 ## Machine Learning
 
 Expliquer le principe de fonctionnement de base du Machine Learning (Jeux de donnée→Algorithme d'apprentissage→Prédiction), en expliquant chacune des trois étapes à l'aide des exemples concret donné au dernier cours.
 
-Passer les 2 vidéos suivantes: "C'est quoi l'intelligence artificielle", "IA: pourquoi vous n'avez aucune change de gagner"
+Passer les 2 vidéos suivantes: "[C'est quoi l'intelligence artificielle](https://www.youtube.com/watch?v=ourd-ZeOl78)" "[IA: pourquoi vous n'avez aucune change de gagner](https://www.youtube.com/watch?v=tI2zP4Zthc8)"
 
 Effectuer l'exercice "Jeux, set et match ! (Adapté de Bingo AI)"
 
@@ -103,6 +99,6 @@ Leur parler des bulles de filtrage et des problème que cela peut engendrer (pre
 
 Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTUwMzg5MCw0NjA4NzA4NjUsMTkzND
+eyJoaXN0b3J5IjpbMTA4NjA3ODc2Nyw0NjA4NzA4NjUsMTkzND
 cxMTEwMF19
 -->
