@@ -14,18 +14,18 @@ L'exercice comprend une liste de système, brièvement décrit et illustré avec
 ## Contenu de l'exercice
 
 ### Liste des systèmes
-| Système |  |
-|--|--|
-|  |  |
+| Système | IA or Not IA | Image | 
+| ------- | ------------ | ----- |
+|  |  | |
 
-1.  Page recommandation de YouTube
-2.  Système GPS permettant de trouver la route la plus rapide
-3.  Une feuille de calcul Excel
-4.  Filtre chien de Snapchat
-5.  Système Google Translate
-6.  Auto pilote Tesla
-7.  Siri
-8.  Une Ford T
+| Page recommandation de YouTube
+|  Système GPS permettant de trouver la route la plus rapide
+|  Une feuille de calcul Excel
+|  Filtre chien de Snapchat |
+|  Système Google Translate |
+|  Auto pilote Tesla |
+|  Siri |
+|  Une Ford T |
 
 ### Réponses
 1.  IA
@@ -37,5 +37,5 @@ L'exercice comprend une liste de système, brièvement décrit et illustré avec
 7.  IA
 8.  Pas IA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjYzNjg0N119
+eyJoaXN0b3J5IjpbLTE1NTMxOTc2MjZdfQ==
 -->
