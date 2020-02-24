@@ -21,8 +21,9 @@ L'exercice comprend une liste de système utilisant ou non un système de recomm
 - Page recherche d'Instagram
 - Recommandation du Play Store / App Store
 - Contacts récents
-- Déstinations 
+- "Destinations prisées" sur Booking
+- Flux Twitter
 ### Réponses
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDI4NDQ2MSwxNzA0ODgyMTk5XX0=
+eyJoaXN0b3J5IjpbLTcxMDgxMDEyNCwxNzA0ODgyMTk5XX0=
 -->
