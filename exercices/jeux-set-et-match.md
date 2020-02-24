@@ -17,9 +17,11 @@ L'exercice comprend une liste de système fonctionnant avec du Machine Learning.
 | Système | Jeux de donnée | Prédiction |
 | ------- | -------------- | ---------- |
 | Envoi d'un message voice-to-text | Des enregistrements de voix avec leurs traductions en texte | Un texte à partir d'un son |
-| Filtre Snapchat | Des visages sans et avec le filtre appliqué | un visage avec le f
+| Filtre Snapchat | Des visages sans et avec le filtre appliqué | un visage avec le filtre appliqué |
+| Réponse suggérée dans Gmail | Des mails avec leurs réponses | Une réponse suggérée par rapport au mail courant |
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwOTMwNzg1LC0xOTk4MTUyMTA3XX0=
+eyJoaXN0b3J5IjpbMTkwMjM4MjczMSwtMTk5ODE1MjEwN119
 -->
