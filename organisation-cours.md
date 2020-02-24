@@ -54,7 +54,7 @@ Expliquer le principe de fonctionnement de base du Machine Learning (Jeux de don
 
 Passer les 2 vidéos suivantes: "[C'est quoi l'intelligence artificielle](https://www.youtube.com/watch?v=ourd-ZeOl78)" "[IA: pourquoi vous n'avez aucune change de gagner](https://www.youtube.com/watch?v=tI2zP4Zthc8)"
 
-Effectuer l'exercice "Jeux, set et match ! (Adapté de Bingo AI)"
+Introduire et effectuer l'exercice ["Jeux, set et match ! (Adapté de Bingo AI)"](./exercices/jeux-set-et-match.md)
 
 # Saisir l'impact sociétale de l'IA
 
@@ -99,6 +99,6 @@ Leur parler des bulles de filtrage et des problème que cela peut engendrer (pre
 
 Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjA3ODc2Nyw0NjA4NzA4NjUsMTkzND
+eyJoaXN0b3J5IjpbMTg1MzQ0NTYyMSw0NjA4NzA4NjUsMTkzND
 cxMTEwMF19
 -->
