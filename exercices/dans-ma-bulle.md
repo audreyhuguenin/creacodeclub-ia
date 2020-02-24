@@ -23,10 +23,10 @@ L'exercice comprend une liste de système utilisant ou non un système de recomm
 | Page recherche d'Instagram | ✅ | Une liste de profil mixant des profils ressemblant au votre et à vos profil liker ainsi que les profils les plus populaires |
 | Recommandation du Play Store / App Store | ✅ | Des applications ressemblant à celle que vous utilisez le plus |
 | Contacts récents | ❌ | |
-| Flux Twitter | ✅ | Une combinaison de tweet établis sur la base de vos retweet  |
-| Pub de la page d'accueil de Google | ✅ | |
+| Flux Twitter | ✅ | Une combinaison de tweet établis sur la base de vos retweet, like et abonnements |
+| Pub de la page d'accueil de Google | ✅ | Des pubs dont vous êtes la cible et que vous pourrez potentiellement apprécie par rapport à vos recherche précédemment effectuée |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODY4MDQ2LC0xNjEzODcxMDkyLDIwMD
-IzMDUzNjksLTY4MDk1MjY2MSwxNzA0ODgyMTk5XX0=
+eyJoaXN0b3J5IjpbLTM2MDc1NDcwNSwtMTYxMzg3MTA5MiwyMD
+AyMzA1MzY5LC02ODA5NTI2NjEsMTcwNDg4MjE5OV19
 -->
