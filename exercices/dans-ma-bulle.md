@@ -20,8 +20,9 @@ L'exercice comprend une liste de système utilisant ou non un système de recomm
 - Page d'accueil FaceBook
 - Page recherche d'Instagram
 - Recommandation du Play Store / App Store
-- 
+- Contacts récents
+- Déstinations 
 ### Réponses
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgxMDUzMDYsMTcwNDg4MjE5OV19
+eyJoaXN0b3J5IjpbLTM2NDI4NDQ2MSwxNzA0ODgyMTk5XX0=
 -->
