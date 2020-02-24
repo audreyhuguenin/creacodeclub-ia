@@ -21,14 +21,14 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | API permettant de générer des visages | https://generated.photos/faces | IA
 | Site affichant un visage provenant d'IA de manière aléatoire | https://www.thispersondoesnotexist.com/ | IA
 | Banque d'image générée par IA | https://www.artbreeder.com/browse | IA
-| Bot de Microsoft pouvant générer uneà partir d'une description | https://drawingbot.azurewebsites.net/ | IA
+| Bot de Microsoft pouvant générer un oiseau à partir d'une description | https://drawingbot.azurewebsites.net/ | IA
 | IA générant de la musique à partir d'autre musique | https://openai.com/blog/musenet/ | IA
 | IA générant du texte à partir d'un texte humain | https://openai.com/blog/better-language-models/ | IA
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAwMjgzMzksNzM1NjcyMTQwLDE1ND
+eyJoaXN0b3J5IjpbLTIwMDk2MzgzNTYsNzM1NjcyMTQwLDE1ND
 E2MTE3NCwtOTg4MjEyMDI2LC0xNzcyMjU5NDE0LC05MzMxNzE2
 MjddfQ==
 -->
