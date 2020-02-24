@@ -40,7 +40,7 @@ Matériel: Support de cours
 
 Exercice: "Jeux, set et match !", "Tic Tac Toe"
 
-Video: "[C'est quoi l'intelligence artificielle](https://www.youtube.com/watch?v=ourd-ZeOl78)", "IA: pourquoi vous n'avez aucune change de gagner ([](https://www.youtube.com/watch?v=tI2zP4Zthc8)[https://www.youtube.com/watch?v=tI2zP4Zthc8](https://www.youtube.com/watch?v=tI2zP4Zthc8))"
+Video: "[C'est quoi l'intelligence artificielle](https://www.youtube.com/watch?v=ourd-ZeOl78)", "[IA: pourquoi vous n'avez aucune change de gagner](https://www.youtube.com/watch?v=tI2zP4Zthc8)"
 
 ## Introduction au cours
 
@@ -72,7 +72,7 @@ Matériel: Support de cours
 
 Exercice: "Voir n'est pas croire", "Dans ma bulle"
 
-Video: "Reconaissance faciale: raciste et inefficace ([](https://www.youtube.com/watch?v=mkhES5pZrDA)[https://www.youtube.com/watch?v=mkhES5pZrDA](https://www.youtube.com/watch?v=mkhES5pZrDA))", [Qu'est-ce qu'un algorithme ? Explication avec un gâteau au chocolat 🍫🍫]: [](https://www.youtube.com/watch?v=iQpsPVVppZM)[https://www.youtube.com/watch?v=iQpsPVVppZM](https://www.youtube.com/watch?v=iQpsPVVppZM)
+Video: "[Reconaissance faciale: raciste et inefficace](https://www.youtube.com/watch?v=mkhES5pZrDA)", [Qu'est-ce qu'un algorithme ? Explication avec un gâteau au chocolat 🍫🍫](https://www.youtube.com/watch?v=iQpsPVVppZM)"
 
 ## Introduction au cours
 
@@ -111,5 +111,5 @@ Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnan
 
 ## Récapitulation du cours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTMwNjA1OV19
+eyJoaXN0b3J5IjpbMTkzNDcxMTEwMF19
 -->
