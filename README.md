@@ -28,7 +28,10 @@ Cette dernière parti verra l'étudiant capable de:
 
 ## Outils utilisé
 Pour générer les supports de cours, l'outil [MARPIT](https://marpit.marp.app/) est utilisé.
+
+## Sources
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNTMzOTgsNzU5ODUzNTE4LC0xMTA3MD
-IyOTU3XX0=
+eyJoaXN0b3J5IjpbMTUxNzIzMTAyNiw3NTk4NTM1MTgsLTExMD
+cwMjI5NTddfQ==
 -->
