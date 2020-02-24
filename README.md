@@ -34,7 +34,8 @@ Pour générer les supports de cours, l'outil [MARPIT](https://marpit.marp.app/)
 - [Etude du MIT - "Grandir avec l'IA"](https://dam-prod.media.mit.edu/x/2018/08/29/Growin_up_with_AI_Stefania_Druga_2018.pdf)
 - [Intro to IA for kids](https://medium.com/eliza-effect/science-fiction-movie-trailers-and-youtube-videos-i-use-to-help-kids-understand-artificial-38a6c08d4652)
 - [Workshop sur l'IA pour les enfants](https://medium.com/@_tlabs/ai-for-kids-it-is-our-responsibility-to-enable-children-worldwide-to-engage-with-artificial-ec0d5c627945)
+- [MIT AI Ethics Education Curriculum](https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/edit#heading=h.ictx1ljsx0z4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzE2MDYzNyw3NTk4NTM1MTgsLTExMD
-cwMjI5NTddfQ==
+eyJoaXN0b3J5IjpbLTEwNDg1NzQ0NDQsNzU5ODUzNTE4LC0xMT
+A3MDIyOTU3XX0=
 -->
