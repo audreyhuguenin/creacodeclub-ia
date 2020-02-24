@@ -30,8 +30,10 @@ Cette dernière parti verra l'étudiant capable de:
 Pour générer les supports de cours, l'outil [MARPIT](https://marpit.marp.app/) est utilisé.
 
 ## Sources
-* 
+- [Elements of AI](https://course.elementsofai.com)
+- [Etude du MIT - "Grandir avec l'IA"](https://dam-prod.media.mit.edu/x/2018/08/29/Growin_up_with_AI_Stefania_Druga_2018.pdf)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzIzMTAyNiw3NTk4NTM1MTgsLTExMD
-cwMjI5NTddfQ==
+eyJoaXN0b3J5IjpbLTIwODY4OTQ2ODgsNzU5ODUzNTE4LC0xMT
+A3MDIyOTU3XX0=
 -->
