@@ -7,9 +7,13 @@ Ce dépôt contient tout les éléments lié au cours sur l'IA préparé pour un
 
 ## Réutilisation
 Le cours est sous licence Apache 2.0, cela signifie que tout le matériel présent dans ce dépôt peut-être réutilisé, modifié et redistribué tant qu'une référence à l'original est donnée.
+
+## Objectifs
+
+
 ## Outils utilisé
 Pour générer les supports de cours, l'outil [MARPIT](https://marpit.marp.app/) est utilisé.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTI2OTkyNDksNzU5ODUzNTE4LC0xMT
-A3MDIyOTU3XX0=
+eyJoaXN0b3J5IjpbLTIxNzcxNDUxMiw3NTk4NTM1MTgsLTExMD
+cwMjI5NTddfQ==
 -->
