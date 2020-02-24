@@ -83,7 +83,10 @@ Discuter avec les étudiants sur les points suivants en les guidant dans leurs r
 
 ## Ne pas croire tout ce que l'on voit
 
-Présenter les vidéos et les images du support de  et demander aux étudiants ce qu'ils en pensent. Après leur avoir révéler que aucune des images et vidéos étaient toutes réalisée par une IA, observer leurs réactions.
+Présenter les vidéos et les images du support de cours et demander aux étudiants ce qu'ils en pensent. Après leur avoir révéler que aucune des images et vidéos étaient toutes réalisée par une IA, observer leurs réactions. 
+
+Discuter avec eux sur les sujets suivants:
+- Faut-il toujours croire une image, 
 
  effectuer l'exercice ["Voir n'est pas croire"](./exercices/voir-nest-pas-croire.md)
 
@@ -97,6 +100,6 @@ Leur parler des bulles de filtrage et des problème que cela peut engendrer (pre
 
 Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDA1NDY1OCwxODUzNDQ1NjIxLDQ2MD
-g3MDg2NSwxOTM0NzExMTAwXX0=
+eyJoaXN0b3J5IjpbMjc3NjEzODA0LDE4NTM0NDU2MjEsNDYwOD
+cwODY1LDE5MzQ3MTExMDBdfQ==
 -->
