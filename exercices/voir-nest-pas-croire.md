@@ -20,8 +20,9 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | ---------------------- | -------------------- | ------------ |
 | API permettant de générer des visages | https://generated.photos/faces | IA
 | Site affichant un visage provenant d'une IA de manière aléatoire | https://www.thispersondoesnotexist.com/ | IA
-|
+| Banque d'image générée par 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIyNTk0MTQsLTkzMzE3MTYyN119
+eyJoaXN0b3J5IjpbNTg3Mzg2NjYyLC0xNzcyMjU5NDE0LC05Mz
+MxNzE2MjddfQ==
 -->
