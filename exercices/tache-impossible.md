@@ -13,11 +13,18 @@ L'exercice comprend une liste de tâche et diagramme d'Euler avec des lettres. L
 
 ## Contenu de l'exercice
 
--
+Liste des domaines possible:
+- 🧠 AI
+- 🎓 Apprentissage automatique (Machine Learning)
+- 💻 Informatique
+- ➗ Maths
+- 🤖 Robotique
+- 💿 Science des données
+- 📈 Statistiques
 
 | Tâches | Domaine | Explication |
 | ------ | ------- | ----------- |
-
+| Programmer une application | inf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5NDI2NDY4XX0=
+eyJoaXN0b3J5IjpbLTE5MDkzNjkyNjFdfQ==
 -->
