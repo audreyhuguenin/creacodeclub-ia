@@ -21,10 +21,11 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | API permettant de générer des visages | https://generated.photos/faces | IA
 | Site affichant un visage provenant d'IA de manière aléatoire | https://www.thispersondoesnotexist.com/ | IA
 | Banque d'image générée par IA | https://www.artbreeder.com/browse | IA
-| Bot de Microsoft pouvant générer 
+| Bot de Microsoft pouvant générer une image à partir d'une description | https://drawingbot.azurewebsites.net/ | IA
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDc3NzAzNywtOTg4MjEyMDI2LC0xNz
-cyMjU5NDE0LC05MzMxNzE2MjddfQ==
+eyJoaXN0b3J5IjpbMTU0MTYxMTc0LC05ODgyMTIwMjYsLTE3Nz
+IyNTk0MTQsLTkzMzE3MTYyN119
 -->
