@@ -24,11 +24,13 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | Bot de Microsoft pouvant générer un oiseau à partir d'une description | https://drawingbot.azurewebsites.net/ | IA
 | IA générant de la musique à partir d'autre musique | https://openai.com/blog/musenet/ | IA
 | IA générant du texte à partir d'un texte humain | https://openai.com/blog/better-language-models/ | IA
+| IA transformant une photo en oeuvre d'art avec un style choisis | https://deepart.io/# | IA
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk2MzgzNTYsNzM1NjcyMTQwLDE1ND
-E2MTE3NCwtOTg4MjEyMDI2LC0xNzcyMjU5NDE0LC05MzMxNzE2
-MjddfQ==
+eyJoaXN0b3J5IjpbLTEyOTQ3ODM0MDcsLTIwMDk2MzgzNTYsNz
+M1NjcyMTQwLDE1NDE2MTE3NCwtOTg4MjEyMDI2LC0xNzcyMjU5
+NDE0LC05MzMxNzE2MjddfQ==
 -->
