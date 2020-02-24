@@ -16,7 +16,7 @@ Présenter aux étudiants les domaines d'applications les plus connus de l'IA (C
 
 Une fois cela présenté, les étudiants peuvent être interrogé avec les questions "Lesquels d'entre vous utilise quoi ? Connaissez-vous d'autre système avec de l'IA ?"
 
-Un exercice est ensuite donné aux étudiants (à faire en groupe), celui-ci consiste à déterminer si un système utilise l'IA ou non. La correction est faite ~15min après.
+Un exercice est ensuite donné aux étudiants (à faire en groupe), celui-ci consiste à déterminer si un système utilise l'IA ou non. La correction est faite ~15min après. (["IA ou pas IA, tel est la question"](./exercices/ia-ou-pas-ia.md))
 
 ## Taxonomie
 
@@ -24,7 +24,7 @@ AI, Robotique, Apprentissage automatique (Machine Learning), Science des donnée
 
 Premièrement définir chacun des mot ci-dessus de la façon la plus simple possible, puis avec l'aide des étudiants, faire un diagramme d'Euler des différents domaines et lequel appartient à quoi (le diagramme est disponible dans le support de cours).
 
-Ensuite, donner un exercice à faire en groupe, consistant à classifier des tâches dans leur(s) domaine(s) de prédilections (["Tache impossible").
+Ensuite, donner un exercice à faire en groupe, consistant à classifier des tâches dans leur(s) domaine(s) de prédilections (["Tache impossible"](./exercices/tache-impossible.md)).
 
 ## AI forte et AI faible (General vs Narrow)
 
@@ -111,5 +111,5 @@ Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnan
 
 ## Récapitulation du cours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDQ4OTM5NCwxOTM0NzExMTAwXX0=
+eyJoaXN0b3J5IjpbMTc2MjYxNDM1MCwxOTM0NzExMTAwXX0=
 -->
