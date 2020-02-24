@@ -16,10 +16,10 @@ L'exercice comprend une liste de système fonctionnant avec du Machine Learning.
 
 | Système | Jeux de donnée | Prédiction |
 | ------- | -------------- | ---------- |
-| Envoi d'un message voice-to-text |  | |
-| Filtre Snapchat | Les photos |
+| Envoi d'un message voice-to-text | Des enregistrements de voix avec leurs traductions en texte | Un texte à partir d'un son |
+| Filtre Snapchat | Des visages sans et avec le filtre appliqué | un visage avec le f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1OTU5MzgzLC0xOTk4MTUyMTA3XX0=
+eyJoaXN0b3J5IjpbNDQwOTMwNzg1LC0xOTk4MTUyMTA3XX0=
 -->
