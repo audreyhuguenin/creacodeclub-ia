@@ -30,10 +30,11 @@ Liste des domaines possible:
 | Créer une application permettant de localiser une photo ... | 💻 |
 | ... et de savoir si le sujet est un oiseau | 🧠 | |
 | Trouver la meilleur solution de stockage pour les données d'une entreprise | 💿 | 
-| Extrapoler le pourcentage de population 
+| Extrapoler le pourcentage de population qui aime le 🍫 à partir d'un sondage | 📈 |
+| Prédire l'évolution du marché financier | 🧠, 📈 | |
 
 ![](https://icdn8.digitaltrends.com/image/digitaltrends/url-e7807a2fbba384c40584bd05562aa8e9-267x448-c.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTA2NzQyLC05Njk2NTA5OTYsLTIwOD
+eyJoaXN0b3J5IjpbNTcwOTg3OTIxLC05Njk2NTA5OTYsLTIwOD
 ExNTY0MjRdfQ==
 -->
