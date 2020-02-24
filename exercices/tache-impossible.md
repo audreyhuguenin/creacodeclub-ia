@@ -26,8 +26,8 @@ Liste des domaines possible:
 | ------ | ------- | ----------- |
 | Programmer une application | 💻 | |
 | Trouver le résultat d'une équation de 2ème degré | ➗ | |
-| Concevoir un rover pour Mars | 🤖 | |
+| Concevoir un rover automatisé pour l'exploration pour Mars | 🤖 | |
 | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODExNTY0MjRdfQ==
+eyJoaXN0b3J5IjpbLTI5MDg2NDUzMCwtMjA4MTE1NjQyNF19
 -->
