@@ -21,9 +21,9 @@ L'exercice comprend une liste de système fonctionnant avec du Machine Learning.
 | Réponse suggérée dans Gmail | Des mails avec leurs réponses | Une réponse suggérée par rapport au mail courant |
 | Auto-complétion de recherche (Google, Bing, ...) | Toute les recherches commençant de la même façon que celle effectuée avec la recherche réellement effectuée | toutes les recherche pouvant correspondre à notre recherche
 | Suggestion d'Emoji à la place d'un mot | Un ensemble de mot avec leur emoji correspondant | Une proposition d'emoji |
-| Utilisation de Google Maps pour trouver une 
+| Utilisation de Google Maps pour trouver un chemin jusqu'à une déstination | Un ensemble de parcours similaire à celui rechercher, leurs temps moyen  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDg1OTg3MSwtMzY5MjM0MzUyLC0xND
-k3MjA2NCwtMTk5ODE1MjEwN119
+eyJoaXN0b3J5IjpbLTE4Nzg5NzkzNDMsLTM2OTIzNDM1MiwtMT
+Q5NzIwNjQsLTE5OTgxNTIxMDddfQ==
 -->
