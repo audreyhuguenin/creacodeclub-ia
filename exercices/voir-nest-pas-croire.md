@@ -19,7 +19,9 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | Description du contenu | Lien vers le contenu | IA or Not IA |
 | ---------------------- | -------------------- | ------------ |
 | API permettant de générer des visages | https://generated.photos/faces | IA
+| Site affichant un visage provenant d'une IA de manière aléatoire | https://www.thispersondoesnotexist.com/ | IA
+|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAwMzQxNiwtOTMzMTcxNjI3XX0=
+eyJoaXN0b3J5IjpbLTE3NzIyNTk0MTQsLTkzMzE3MTYyN119
 -->
