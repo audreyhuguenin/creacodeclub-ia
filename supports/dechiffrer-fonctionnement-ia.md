@@ -21,7 +21,7 @@ theme: default
 
 ---
 
-<video src="" style="width:80%" controls></video>
+<!-- <video src="" style="width:80%" controls></video> -->
 
 ---
 
@@ -127,13 +127,13 @@ Donnée -> Algorithme d'apprentissage -> Prédiction
 
 # C'est quoi l'intelligence artificielle
 
-<video src="" style="width:80%" controls></video>
+<!-- <video src="" style="width:80%" controls></video> -->
 
 ---
 
 # IA: Pourquoi vous n'avez aucune chance de gagner
 
-<video src="" style="width:80%" controls></video>
+<!-- <video src="" style="width:80%" controls></video> -->
 
 ---
 
@@ -147,6 +147,3 @@ L'exercice comprend une liste de système fonctionnant avec du Machine Learning.
 **Moyen**
 * Par groupe de 3
 * 20 min
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQzOTI1NDFdfQ==
--->

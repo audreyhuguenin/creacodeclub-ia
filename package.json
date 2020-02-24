@@ -1,0 +1,25 @@
+{
+  "name": "creacodeclub-ia",
+  "version": "1.0.0",
+  "description": "\"Le CreaCode Club est issu du [Media Engineering Institute](http://mei.heig-vd.ch), l’unité de recherche du département [COMEM+](http://comem.ch/ \"COMEM+\") de la [HEIG-VD](http://www.heig-vd.ch). Le projet a été initié en 2015 par Sandra Gindroz, passionnée par les nouvelles technologies, et Sandrine Divorne, passionnée de design. C’est en unissant leurs forces qu’elles ont réussi à créer un CodeClub permettant de casser l’image complexe que renvoie l’informatique.\" - [Site du CreaCode Club](codeclub.heig-vd.ch)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve:slides": "marp -p --server ./supports"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verdonarthur/creacodeclub-ia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verdonarthur/creacodeclub-ia/issues"
+  },
+  "homepage": "https://github.com/verdonarthur/creacodeclub-ia#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.17.1",
+    "concurrently": "^5.1.0"
+  }
+}
