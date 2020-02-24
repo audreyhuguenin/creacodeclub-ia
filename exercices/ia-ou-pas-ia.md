@@ -14,6 +14,10 @@ L'exercice comprend une liste de système, brièvement décrit et illustré avec
 ## Contenu de l'exercice
 
 ### Liste des systèmes
+| Système |  |
+|--|--|
+|  |  |
+
 1.  Page recommandation de YouTube
 2.  Système GPS permettant de trouver la route la plus rapide
 3.  Une feuille de calcul Excel
@@ -33,5 +37,5 @@ L'exercice comprend une liste de système, brièvement décrit et illustré avec
 7.  IA
 8.  Pas IA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODAwNzEzNl19
+eyJoaXN0b3J5IjpbMTg3NjYzNjg0N119
 -->
