@@ -24,7 +24,9 @@ Liste des domaines possible:
 
 | Tâches | Domaine | Explication |
 | ------ | ------- | ----------- |
-| Programmer une application | inf
+| Programmer une application | 💻 | |
+| Trouver le résultat d'une équation de 2ème degré | ➗ | |
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkzNjkyNjFdfQ==
+eyJoaXN0b3J5IjpbLTIxNTIxNDg5Nl19
 -->
