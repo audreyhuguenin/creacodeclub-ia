@@ -14,7 +14,10 @@ L'exercice comprend une liste de système fonctionnant avec du Machine Learning.
 
 ## Contenu de l'exercice
 
+| Système | Jeux de donnée | Prédiction |
+| ------- | -------------- | ---------- |
+| Po |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgxNTIxMDddfQ==
+eyJoaXN0b3J5IjpbMTIyMDIxOTIyOSwtMTk5ODE1MjEwN119
 -->
