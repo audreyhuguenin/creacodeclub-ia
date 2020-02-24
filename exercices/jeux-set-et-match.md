@@ -16,10 +16,10 @@ L'exercice comprend une liste de système fonctionnant avec du Machine Learning.
 
 | Système | Jeux de donnée | Prédiction |
 | ------- | -------------- | ---------- |
-| Prévision météo d'une application mobile | La météo provenant du de l'application | La prévision météo
+| Envoi d'un message  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTcyNDAzMDUsLTE5OTgxNTIxMDddfQ
+eyJoaXN0b3J5IjpbLTE0NTQ3MDgzMDgsLTE5OTgxNTIxMDddfQ
 ==
 -->
