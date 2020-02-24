@@ -32,8 +32,6 @@ Présenter les concepts d'IA forte et faible aux étudiants à l'aide des exempl
 
 Montrer des extraits de films/vidéo (les extraits sont disponibles dans le support de cours) possédant une IA et demander aux étudiants de la classifier. Commenter et corriger les réponses si besoin.
 
-## Récapitulation du cours
-
 # Déchiffrer le fonctionnement de l'IA
 
 Matériel: Support de cours
@@ -63,8 +61,6 @@ Expliquer le principe de fonctionnement de base du Machine Learning (Jeux de don
 Passer les 2 vidéos suivantes: "C'est quoi l'intelligence artificielle", "IA: pourquoi vous n'avez aucune change de gagner"
 
 Effectuer l'exercice "Jeux, set et match ! (Adapté de Bingo AI)"
-
-## Récapitulation du cours
 
 # Saisir l'impact sociétale de l'IA
 
@@ -108,8 +104,6 @@ Discuter avec eux des problèmes que cela peut engendrer
 Leur parler des bulles de filtrage et des problème que cela peut engendrer (prendre l'exemple concret des recommandation YouTube).
 
 Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
-
-## Récapitulation du cours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMyOTc2NzIsMTkzNDcxMTEwMF19
+eyJoaXN0b3J5IjpbNDYwODcwODY1LDE5MzQ3MTExMDBdfQ==
 -->
