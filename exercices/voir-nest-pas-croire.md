@@ -15,10 +15,11 @@ L'exercice comprend une série de vidéos, sons et images. Certains sont bien r�
 
 ## Contenu de l'exercice
 
+
 | Description du contenu | Lien vers le contenu | IA or Not IA |
 | ---------------------- | -------------------- | ------------ |
-|  |  |
+| API permettant de générer des visages | https://generated.photos/ | IA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTI1NjU2NSwtOTMzMTcxNjI3XX0=
+eyJoaXN0b3J5IjpbLTE5NDcwOTU0MzAsLTkzMzE3MTYyN119
 -->
