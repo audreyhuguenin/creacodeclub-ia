@@ -27,7 +27,9 @@ Liste des domaines possible:
 | Programmer une application | 💻 | |
 | Trouver le résultat d'une équation de 2ème degré | ➗ | |
 | Concevoir un rover automatisé pour l'exploration pour Mars | 🤖 | |
-| Créer une application permettant de localiser 
+| Créer une application permettant de localiser une photo ... | 💻 |
+| ... et de savoir si le sujet est un oiseau | 🧠 | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODk3NTM4LC0yMDgxMTU2NDI0XX0=
+eyJoaXN0b3J5IjpbLTEzNjQ1MjM0ODMsLTIwODExNTY0MjRdfQ
+==
 -->
