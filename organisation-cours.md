@@ -36,9 +36,10 @@ Montrer des extraits de films/vidéo (les extraits sont disponibles dans le supp
 
 ## Introduction au cours
 
-Présenter rapidement le contenu du cours et ce qu'il vont y apprendre.
+Présenter rapidement le contenu du cours et ce qu'il vont y apprendre. 
 
 ## Algorithme de résolution de problème
+
 
 Présenter l'énigme "Renard, Poule, Graine" à l'aide du support de cours. Faire la résolution avec les étudiants et expliquer sa liaison avec l'IA.
 
@@ -60,7 +61,7 @@ Matériel: Support de cours
 
 Exercice: "Voir n'est pas croire", "Dans ma bulle"
 
-Video: "[Reconaissance faciale: raciste et inefficace](https://www.youtube.com/watch?v=mkhES5pZrDA)", [Qu'est-ce qu'un algorithme ? Explication avec un gâteau au chocolat 🍫🍫](https://www.youtube.com/watch?v=iQpsPVVppZM)"
+Video: ,
 
 ## Introduction au cours
 
@@ -72,7 +73,7 @@ Expliquer/Revoir le concept d'algorithme à l'aide de la vidéo qu'est qu'un alg
 
 -   Demander aux étudiants de réexpliquer par leurs propres termes
 
-Présenter ensuite le principe du biais algorithmique a l'aide du support de cours. Passer ensuite la vidéo "Reconnaissance faciale: raciste et inefficace"
+Présenter ensuite le principe du biais algorithmique a l'aide du support de cours. Passer ensuite la vidéo "[Reconaissance faciale: raciste et inefficace](https://www.youtube.com/watch?v=mkhES5pZrDA)"
 
 Discuter avec les étudiants sur les points suivants en les guidant dans leurs réponses:
 
@@ -104,6 +105,6 @@ Leur parler des bulles de filtrage et des problème que cela peut engendrer (pre
 
 Leur faire faire l'exercice ["Dans ma bulle"](./exercices/dans-ma-bulle.md) et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTk2MTI5MywxODUzNDQ1NjIxLDQ2MD
-g3MDg2NSwxOTM0NzExMTAwXX0=
+eyJoaXN0b3J5IjpbLTE1ODAyNjE4MzYsMTg1MzQ0NTYyMSw0Nj
+A4NzA4NjUsMTkzNDcxMTEwMF19
 -->
