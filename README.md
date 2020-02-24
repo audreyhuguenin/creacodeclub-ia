@@ -6,7 +6,7 @@
 Ce dépôt contient tout les éléments lié au cours sur l'IA préparé pour un public d'enfant de [reste à déterminer].
 
 ## Réutilisation
-Le cours est sous license Apache 2.0, cela signifie que tout le matériel présent dans ce dépôt peut-être réutilisé, modifié et redistribué ta
+Le cours est sous license Apache 2.0, cela signifie que tout le matériel présent dans ce dépôt peut-être réutilisé, modifié et redistribué tant que figure le
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTA4MzQyMSwtMTEwNzAyMjk1N119
+eyJoaXN0b3J5IjpbLTUwMDAyOTAxNywtMTEwNzAyMjk1N119
 -->
