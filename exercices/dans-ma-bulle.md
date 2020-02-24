@@ -18,8 +18,8 @@ L'exercice comprend une liste de système utilisant ou non un système de recomm
 | Système | Utilise un système de filtrage | Contenus recommandés |
 | ------- | ------------------------------ | ------------------- |
 | Page de recommandation YouTube | ✅ | Un mix de vidéo ressemblant à la combinaison de votre historique de recherche, de vidéo vue, de vos abonnements ainsi que des vidéos populaire étant dans les domaines de vos préférences |
-| Playlist "Vos découvertes de la semaine" sur Spotify | ✅ | Propose une playlist dont les titres la composant sont des mixes d |
-| Page d'accueil FaceBook | ✅ | |
+| Playlist "Vos découvertes de la semaine" sur Spotify | ✅ | Propose une playlist dont les titres la composant sont des mixes de vos préférence musicale |
+| Page d'accueil FaceBook | ✅ | Un aggrégat de pubs |
 | Page recherche d'Instagram | ✅ | |
 | Recommandation du Play Store / App Store | ✅ | |
 | Contacts récents | | |
@@ -28,6 +28,6 @@ L'exercice comprend une liste de système utilisant ou non un système de recomm
 | Pub de la page d'accueil de Google | ✅ | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTA4ODk5MCwtNjgwOTUyNjYxLDE3MD
-Q4ODIxOTldfQ==
+eyJoaXN0b3J5IjpbLTE1OTIxMTkyNjcsLTY4MDk1MjY2MSwxNz
+A0ODgyMTk5XX0=
 -->
