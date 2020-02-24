@@ -16,26 +16,14 @@ L'exercice comprend une liste de système, brièvement décrit et illustré avec
 ### Liste des systèmes
 | Système | IA or Not IA | Image | 
 | ------- | ------------ | ----- |
-|  |  | |
-
-| Page recommandation de YouTube
-|  Système GPS permettant de trouver la route la plus rapide
-|  Une feuille de calcul Excel
-|  Filtre chien de Snapchat |
-|  Système Google Translate |
-|  Auto pilote Tesla |
-|  Siri |
-|  Une Ford T |
-
-### Réponses
-1.  IA
-2.  Pas IA
-3.  Pas IA
-4.  IA
-5.  IA
-6.  IA
-7.  IA
-8.  Pas IA
+| Page recommandation de YouTube | IA | |
+|  Système GPS permettant de trouver la route la plus rapide | Pas IA | |
+|  Une feuille de calcul Excel | Pas IA |
+|  Filtre chien de Snapchat | IA
+|  Système Google Translate | IA
+|  Auto pilote Tesla | IA
+|  Siri | IA
+|  Une Ford T | Pas IA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMxOTc2MjZdfQ==
+eyJoaXN0b3J5IjpbLTI4NDQ0Mzk4XX0=
 -->
