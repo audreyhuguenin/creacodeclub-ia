@@ -30,6 +30,9 @@ Cette dernière parti verra l'étudiant capable de:
 ## Outils utilisé
 Pour générer les supports de cours, l'outil [MARPIT](https://marpit.marp.app/) est utilisé.
 
+## Auteurs
+- Arthur Verdon
+
 ## Sources
 - [Elements of AI](https://course.elementsofai.com)
 - [Etude du MIT - "Grandir avec l'IA"](https://dam-prod.media.mit.edu/x/2018/08/29/Growin_up_with_AI_Stefania_Druga_2018.pdf)
@@ -37,6 +40,6 @@ Pour générer les supports de cours, l'outil [MARPIT](https://marpit.marp.app/)
 - [Workshop sur l'IA pour les enfants](https://medium.com/@_tlabs/ai-for-kids-it-is-our-responsibility-to-enable-children-worldwide-to-engage-with-artificial-ec0d5c627945)
 - [MIT AI Ethics Education Curriculum](https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/edit#heading=h.ictx1ljsx0z4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM2MTk0ODIsNzU5ODUzNTE4LC0xMT
+eyJoaXN0b3J5IjpbLTExNDc5MTMzNzgsNzU5ODUzNTE4LC0xMT
 A3MDIyOTU3XX0=
 -->
