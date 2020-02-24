@@ -59,11 +59,7 @@ Introduire et effectuer l'exercice ["Jeux, set et match ! (Adapté de Bingo AI)"
 
 # Saisir l'impact sociétale de l'IA
 
-Matériel: Support de cours
-
-Exercice: "Voir n'est pas croire", "Dans ma bulle"
-
-Video: ,
+[Support de cours](./supports/saisir-impact-societale.md)
 
 ## Introduction au cours
 
@@ -105,6 +101,6 @@ Leur parler des bulles de filtrage et des problème que cela peut engendrer (pre
 
 Leur faire faire l'exercice ["Dans ma bulle"](./exercices/dans-ma-bulle.md) et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAwODg2MDMsMTg1MzQ0NTYyMSw0Nj
-A4NzA4NjUsMTkzNDcxMTEwMF19
+eyJoaXN0b3J5IjpbMjAwODQwNjgwOCwxODUzNDQ1NjIxLDQ2MD
+g3MDg2NSwxOTM0NzExMTAwXX0=
 -->
