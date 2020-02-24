@@ -29,8 +29,11 @@ Liste des domaines possible:
 | Concevoir un rover automatisé pour l'exploration pour Mars | 🤖 | |
 | Créer une application permettant de localiser une photo ... | 💻 |
 | ... et de savoir si le sujet est un oiseau | 🧠 | |
+| Trouver la meilleur solution de stockage pour les données d'une entreprise | 💿 | 
+| Extrapoler le pourcentage de population 
 
 ![](https://icdn8.digitaltrends.com/image/digitaltrends/url-e7807a2fbba384c40584bd05562aa8e9-267x448-c.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTY1MDk5NiwtMjA4MTE1NjQyNF19
+eyJoaXN0b3J5IjpbMTY5NTA2NzQyLC05Njk2NTA5OTYsLTIwOD
+ExNTY0MjRdfQ==
 -->
