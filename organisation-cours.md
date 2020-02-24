@@ -89,7 +89,7 @@ Discuter avec eux sur les sujets suivants:
 - Faut-il toujours croire un son, une image ou une vidéo ?
 - Que pensez-vous de ces technologies ? Est-ce plutôt bien ou mal ? Qu'en feriez-vous ?
 
- effectuer l'exercice ["Voir n'est pas croire"](./exercices/voir-nest-pas-croire.md)
+ Après cela, l'exercice ["Voir n'est pas croire"](./exercices/voir-nest-pas-croire.md) peut optionnellement être réaliser pour tester l'esprit critique des étudiants.
 
 ## Bulles de filtrage
 
@@ -99,8 +99,8 @@ Discuter avec eux des problèmes que cela peut engendrer
 
 Leur parler des bulles de filtrage et des problème que cela peut engendrer (prendre l'exemple concret des recommandation YouTube).
 
-Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
+Leur faire faire l'exercice ["Dans ma bulle"](./exercices/dans-ma-bulle.md) et discuter des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM4OTMzODAsMTg1MzQ0NTYyMSw0Nj
+eyJoaXN0b3J5IjpbLTE2NzU2NTIwMjgsMTg1MzQ0NTYyMSw0Nj
 A4NzA4NjUsMTkzNDcxMTEwMF19
 -->
