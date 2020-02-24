@@ -22,9 +22,9 @@ Un exercice est ensuite donné aux étudiants (à faire en groupe), celui-ci con
 
 AI, Robotique, Apprentissage automatique (Machine Learning), Science des données, Maths, Statistiques, Informatique.
 
-Premièrement définir chacun des mot ci-dessus de la façon la plus simple possible, puis avec l'aide des étudiants, faire un diagramme d'Euler des différents domaines et lequel appartient à quoi (le diagramme est disponible dans le support de cours.
+Premièrement définir chacun des mot ci-dessus de la façon la plus simple possible, puis avec l'aide des étudiants, faire un diagramme d'Euler des différents domaines et lequel appartient à quoi (le diagramme est disponible dans le support de cours).
 
-Ensuite, donner un exercice à faire en groupe, consistant à déterminer à quel domaine appartient à une tâche ("Tache impossible").
+Ensuite, donner un exercice à faire en groupe, consistant à classifier des tâches dans leur(s) domaine(s) de prédilections (["Tache impossible").
 
 ## AI forte et AI faible (General vs Narrow)
 
@@ -111,5 +111,5 @@ Leur faire faire l'exercice "Dans ma bulle" et discuter des résultats en donnan
 
 ## Récapitulation du cours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM1ODgzMTYsMTkzNDcxMTEwMF19
+eyJoaXN0b3J5IjpbLTQxMDQ4OTM5NCwxOTM0NzExMTAwXX0=
 -->
