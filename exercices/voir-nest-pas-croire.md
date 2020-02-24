@@ -25,12 +25,12 @@ Liste de contenu pouvant être utilisé pour l'exercice:
 | IA générant de la musique à partir d'autre musique | https://openai.com/blog/musenet/ | IA
 | IA générant du texte à partir d'un texte humain | https://openai.com/blog/better-language-models/ | IA
 | IA transformant une photo en oeuvre d'art avec un style choisis | https://deepart.io/# | IA
-|
+| Quelques expérience de NVidia permettant de générer des images ou des morceau d'image | https://www.nvidia.com/en-us/research/ai-playground/ | IA
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM2ODIzMDksLTEyOTQ3ODM0MDcsLT
-IwMDk2MzgzNTYsNzM1NjcyMTQwLDE1NDE2MTE3NCwtOTg4MjEy
-MDI2LC0xNzcyMjU5NDE0LC05MzMxNzE2MjddfQ==
+eyJoaXN0b3J5IjpbMzU4NjU2MjQyLC0xMjk0NzgzNDA3LC0yMD
+A5NjM4MzU2LDczNTY3MjE0MCwxNTQxNjExNzQsLTk4ODIxMjAy
+NiwtMTc3MjI1OTQxNCwtOTMzMTcxNjI3XX0=
 -->
