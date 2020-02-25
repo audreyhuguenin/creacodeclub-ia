@@ -94,10 +94,43 @@ _color: '#f8f8ff'
 -->
 
 # Algorithme MinMax
+## Ou Comment résoudre un jeux simple
 
 ---
 
-// TODO
+# Fonctionnement
+
+![Exemple avec Tic-Tac-Toe](https://course.elementsofai.com/static/2_3_game-tree-2.0259fe81.svg)
+
+1. Trouver toutes les combinaisons possible dans le jeux actuel
+2. A partir de toutes ces combinaisons, trouver la combinaison permettant de gagner le plus vite
+3. Renvoyer le prochain mouvement
+
+---
+
+# Utilisations
+
+![Chess](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/250px-ChessSet.jpg)
+![Tic-Tac-Toe](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/200px-Tic_tac_toe.svg.png)
+![Puissance Quatre](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
+
+---
+
+# Limites
+
+![Go](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FloorGoban.JPG/300px-FloorGoban.JPG)
+![Fortnite](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FortniteLogo.svg/250px-FortniteLogo.svg.png)
+
+---
+
+# Ne fonctionne donc que quand:
+- Il n'y a que 2 joueurs
+- Que un mouvement gagnant d'un joueur se traduit par un mouvement perdant pour l'autre joueur
+- Toutes les informations du jeu sont connues
+
+---
+
+# Comment faire mieux ?
 
 ---
 
@@ -120,20 +153,16 @@ Donnée -> Algorithme d'apprentissage -> Prédiction
 
 # Système de recommandation de musique
 
-// TODO
+![Daily Mix Spotify](https://community.spotify.com/t5/image/serverpage/image-id/86574iBB73B4D361258EEE/image-size/large?v=1.0&px=999)
+![Home Spotify recommandation](https://community.spotify.com/t5/image/serverpage/image-id/97303i91A6D3C5EB772C5C/image-size/large?v=1.0&px=999)
 
 
 ---
 
-# C'est quoi l'intelligence artificielle
+# Fonctionnement
 
-<!-- <video src="" style="width:80%" controls></video> -->
-
----
-
-# IA: Pourquoi vous n'avez aucune chance de gagner
-
-<!-- <video src="" style="width:80%" controls></video> -->
+- "[C'est quoi l'intelligence artificielle](https://www.youtube-nocookie.com/embed/ourd-ZeOl78)"
+- "[IA: pourquoi vous n'avez aucune change de gagner](https://www.youtube-nocookie.com/embed/tI2zP4Zthc8)"
 
 ---
 

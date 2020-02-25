@@ -39,7 +39,7 @@ Montrer des extraits de films/vidéo (les extraits sont disponibles dans le supp
 Présenter rapidement le contenu du cours et ce qu'il vont y apprendre. 
 
 ## Qu'est-ce qu'un algorithme ?
- ["Qu'est-ce qu'un algorithme ? Explication avec un gâteau au chocolat 🍫🍫](https://www.youtube.com/watch?v=iQpsPVVppZM)"
+["Qu'est-ce qu'un algorithme ? Explication avec un gâteau au chocolat 🍫🍫](https://www.youtube.com/watch?v=iQpsPVVppZM)"
 
 ## Algorithme de résolution de problème
 
