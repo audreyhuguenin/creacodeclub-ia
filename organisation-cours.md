@@ -88,12 +88,8 @@ Discuter avec eux sur :
 
 ## Bulles de filtrage
 
-Leurs expliquer le principe de fonctionnement des système de recommandation avec l'exemple concret de la recommandation de musique de Spotify.
-
-Discuter avec eux des problèmes que cela peut engendrer:
+Leurs expliquer le principe de fonctionnement des système de recommandation et de avec l'exemple concret de la recommandation de musique de Spotify et du schéma fourni dans le support. Leur parler ensuite du problème que cela engendre (bulles de filtrage) et de leurs éventuelles conséquence (prendre l'exemple concret des recommandation YouTube et des vidéos de complotiste) :
 - Que se passe-t-il si l'on ne consomme que du contenu qui nous plaît ou pourrait nous plaire ?
-
-Leur parler des bulles de filtrage et des problème que cela peut engendrer (prendre l'exemple concret des recommandation YouTube) :
 - Que se passe-t-il du point de vue de l'esprit critique ?
 - Quel est le problème de ne pas être confronté à d'autre point de vue ?
 
