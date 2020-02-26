@@ -83,8 +83,8 @@ _color: '#f8f8ff'
 L'exercice comprend une liste de système, brièvement décrit et illustré avec une image ou 2 images maximum. A coté de chaque système figure 3 cases à cocher: IA, Pas IA, Non-déterminable.
 
 **Moyen**
-* Par groupe de 4
-* 15 min
+- Par groupe de 4
+- 15 min
 
 ---
 
@@ -123,8 +123,8 @@ _color: '#f8f8ff'
 L'exercice comprend une liste de tâche et diagramme d'Euler avec des lettres. Les étudiants doivent faire correspondre les lettres avec les tâches.
 
 **Moyen**
-* Par groupe de 2
-* 15 min
+- Par groupe de 2
+- 15 min
 
 ---
 
@@ -139,25 +139,19 @@ _color: '#f8f8ff'
 
 ---
 
-<video src="https://www.youtube.com/watch?v=Orsse_gEJA0" type="video/mp4" controls="true" style="width:100%"></video>
+# AI forte et AI faible: quel est la différence ?
+
+["Pourquoi une Intelligence Artificielle ne peut faire un Opéra ?"](https://www.youtube.com/embed/Orsse_gEJA0)
 
 ---
 
-# Extrait Vidéo 1
+# A vous de classifier !
 
-<video src="https://www.youtube.com/watch?v=BA9UC_3Ykqw" type="video/mp4" controls="true" style="width:80%"></video>
-
----
-
-# Extrait Vidéo 2
-
-<video src="https://www.youtube.com/watch?v=Orsse_gEJA0" type="video/mp4" controls="true" style="width:80%"></video>
-
----
-
-# Extrait Vidéo 3
-
-<video src="https://www.youtube.com/watch?v=Orsse_gEJA0" type="video/mp4" controls="true" style="width:80%"></video>
+- [Vidéo 1](https://www.youtube.com/embed/BA9UC_3Ykqw)
+- [Vidéo 2](https://www.youtube.com/embed/y3RIHnK0_NE)
+- [Vidéo 3](https://www.youtube.com/embed/T4q0WS0gxRY)
+- [Vidéo 4](https://www.youtube.com/embed/rVlhMGQgDkY)
+- [Vidéo 5](https://www.youtube.com/embedXPtVZ69lomk)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTU1Mzk2NTgxOV19

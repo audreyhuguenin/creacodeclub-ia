@@ -26,9 +26,7 @@ Ensuite, donner un exercice à faire en groupe, consistant à classifier des tâ
 
 ## AI forte et AI faible (General vs Narrow)
 
-Présenter les concepts d'IA forte et faible aux étudiants à l'aide des exemples disponibles sur le support du cours.
-
-Montrer des extraits de films/vidéo (les extraits sont disponibles dans le support de cours) possédant une IA et demander aux étudiants de la classifier. Commenter et corriger les réponses si besoin.
+Présenter les concepts d'IA forte et faible aux étudiants à l'aide de la vidéo disponibles sur le support du cours puis montrer des extraits de films/vidéo (les extraits sont disponibles dans le support de cours) montrant différente forme d'IA et demander aux étudiants de les classifier. Commenter et corriger les réponses si besoin.
 
 # Déchiffrer le fonctionnement de l'IA
 
@@ -69,7 +67,7 @@ Présenter rapidement le contenu du cours et ce qu'il vont y apprendre.
 
 Revoir rapidement le concept d'algorithme.
 
-Présenter ensuite le principe du biais algorithmique a l'aide du support de cours. Passer ensuite la vidéo "[Reconaissance faciale: raciste et inefficace](https://www.youtube.com/watch?v=mkhES5pZrDA)"
+Présenter ensuite le principe du biais algorithmique avec le principe de la recette de la tartine (tout le monde voit d'une façon différente la manière de préparer une tartine) à l'aide du support de cours. Passer ensuite la vidéo "[Reconaissance faciale: raciste et inefficace](https://www.youtube.com/watch?v=mkhES5pZrDA)"
 
 Discuter avec les étudiants sur les points suivants en les guidant dans leurs réponses:
 
@@ -80,17 +78,17 @@ Discuter avec les étudiants sur les points suivants en les guidant dans leurs r
 
 ## Ne pas croire tout ce que l'on voit
 
-Présenter les vidéos et les images du support de cours et demander aux étudiants ce qu'ils en pensent. Après leur avoir révéler que aucune des images et vidéos étaient toutes réalisée par une IA, observer leurs réactions. 
-
-Discuter avec eux sur les sujets suivants:
+Discuter avec eux sur:
 - Faut-il toujours croire un son, une image ou une vidéo ?
-- Que pensez-vous de ces technologies ? Est-ce plutôt bien ou mal ? Qu'en feriez-vous ?
 
- Après cela, l'exercice ["Voir n'est pas croire"](./exercices/voir-nest-pas-croire.md) peut optionnellement être réaliser pour tester l'esprit critique des étudiants.
+Effectuer l'exercice ["Voir n'est pas croire"](./exercices/voir-nest-pas-croire.md).
+
+Discuter avec eux sur :
+- Que pensez-vous de ces technologies ? Est-ce plutôt bien ou mal ? Qu'en feriez-vous ?
 
 ## Bulles de filtrage
 
-Leurs expliquer le principe de fonctionnement des système de recommandation avec l'exemple concret de la recommandation de musique.
+Leurs expliquer le principe de fonctionnement des système de recommandation avec l'exemple concret de la recommandation de musique de Spotify.
 
 Discuter avec eux des problèmes que cela peut engendrer:
 - Que se passe-t-il si l'on ne consomme que du contenu qui nous plaît ou pourrait nous plaire ?
