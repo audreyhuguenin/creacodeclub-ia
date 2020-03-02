@@ -6,27 +6,30 @@
 
 Présenter rapidement le contenu du cours et ce qu'ils vont y apprendre.
 
-Discuter avec eux sur la question suivante: "Qu'est qu'une IA pour vous ?", les résultats obtenu à cette question peuvent être mis de côté pour plus tard.
+Discuter avec eux sur la question suivante: "Qu'est qu'une IA pour vous ?", les résultats obtenus à cette question peuvent être mis de côté pour plus tard.
 
 ## Applications pratique de l'IA
 
-Présenter aux étudiants les domaines d'applications les plus connus de l'IA (Conduite autonome, Recommandation de contenu, Traitement d'image et vidéo) avec des exemples concrets (par ex: Recommandation de contenu→ Youtube).
+Présenter aux étudiant-e-s les domaines d'applications les plus connus de l'IA (Conduite autonome, Recommandation de contenu, Traitement d'image et vidéo) avec des exemples concrets (par ex: Recommandation de contenu→ Youtube).
 
-Une fois cela présenté, les étudiants peuvent être interrogés avec des questions telles que "Lesquels d'entre vous utilisent quoi ? Connaissez-vous d'autre système avec de l'IA ?"
+Une fois cela présenté, les étudiant-e-s peuvent être interrogé-e-s avec des questions telles que "Lesquel-le-s d'entre vous utilisent quoi ? Connaissez-vous d'autre système avec de l'IA ?"
 
-Un exercice est ensuite donné aux étudiants (à faire en groupe). Celui-ci consiste à déterminer si un système utilise l'IA ou non. La correction est faite ~15min après. (["IA ou pas IA, tel est la question"](./exercices/ia-ou-pas-ia.md))
+Un exercice est ensuite donné aux étudiant-e-s (à faire en groupe). Celui-ci consiste à déterminer si un système utilise l'IA ou non. La correction est faite ~15min après. (["IA ou pas IA, tel est la question"](./exercices/ia-ou-pas-ia.md))
 
 ## Taxonomie
 
 AI, Robotique, Apprentissage automatique (Machine Learning), Science des données, Maths, Statistiques, Informatique.
 
-Premièrement définir chacun des mot ci-dessus de la façon la plus simple possible, puis avec l'aide des étudiants, faire un diagramme d'Euler des différents domaines et de leurs liens (le diagramme est disponible dans le support de cours).
+Premièrement, définir chacun des mots ci-dessus de la façon la plus simple possible. Puis avec l'aide des étudiant-e-s, faire un diagramme d'Euler des différents domaines et de leurs liens (le diagramme est disponible dans le support de cours).
 
 Ensuite, donner un exercice à faire en groupe, consistant à classifier des tâches dans leur(s) domaine(s) de prédilections (["Tache impossible"](./exercices/tache-impossible.md)).
 
 ## AI forte et AI faible (General vs Narrow)
 
-Présenter les concepts d'IA forte et faible aux étudiants à l'aide de la vidéo disponibles sur le support du cours puis montrer des extraits de films/vidéo (les extraits sont disponibles dans le support de cours) montrant différentes formes d'IA et demander aux étudiants de les classifier. Commenter et corriger les réponses si besoin.
+- Présenter les concepts d'IA forte et faible aux étudiant-e-s à l'aide de la vidéo disponible sur le support du cours.
+- Montrer des extraits de films/vidéo (les extraits sont disponibles dans le support de cours) illustrant différentes formes d'IA.
+- Demander aux étudiant-e-s de les classifier. 
+- Commenter et corriger les réponses si besoin.
 
 # Déchiffrer le fonctionnement de l'IA
 
@@ -34,18 +37,20 @@ Présenter les concepts d'IA forte et faible aux étudiants à l'aide de la vid�
 
 ## Introduction au cours
 
-Présenter rapidement le contenu du cours et ce qu'il vont y apprendre. 
+Présenter rapidement le contenu du cours et ce qu'ils vont y apprendre. 
 
 ## Qu'est-ce qu'un algorithme ?
 ["Qu'est-ce qu'un algorithme ? Explication avec un gâteau au chocolat 🍫🍫](https://www.youtube.com/watch?v=iQpsPVVppZM)"
 
 ## Algorithme de résolution de problème
 
-Présenter l'énigme "Renard, Poule, Graine" à l'aide du support de cours. Faire la résolution avec les étudiants et expliquer sa liaison avec l'IA.
+- Présenter l'énigme "Renard, Poule, Graine" à l'aide du support de cours. 
+- Faire la résolution avec les étudiant-e-s et expliquer sa liaison avec l'IA.
 
 ## Algorithme de jeu simple
 
-Présenter l'algorithme MinMax à l'aide du support de cours. Expliquer ces limitations actuelles pour pouvoir introduire le chapitre Machine Learning.
+- Présenter l'algorithme MinMax à l'aide du support de cours. 
+- Expliquer ces limitations actuelles pour pouvoir introduire le chapitre Machine Learning.
 
 ## Machine Learning
 
@@ -69,7 +74,7 @@ Revoir rapidement le concept d'algorithme.
 
 Présenter ensuite le principe du biais algorithmique avec le principe de la recette de la tartine (tout le monde voit d'une façon différente la manière de préparer une tartine) à l'aide du support de cours. Passer ensuite la vidéo "[Reconaissance faciale: raciste et inefficace](https://www.youtube.com/watch?v=mkhES5pZrDA)"
 
-Discuter avec les étudiants sur les points suivants en les guidant dans leurs réponses:
+Discuter avec les étudiant-e-s sur les points suivants en les guidant dans leurs réponses:
 
 -   Que pensez-vous du taux d’erreur de ces systèmes ?
 -   Que dire sur le fait que celui-ci augmente suivant vos origines ?
@@ -88,7 +93,7 @@ Discuter avec eux sur :
 
 ## Bulles de filtrage
 
-Leurs expliquer le principe de fonctionnement des système de recommandation avec l'exemple concret de la recommandation de musique de Spotify et du schéma fourni dans le support. Leur parler ensuite du problème que cela engendre (bulles de filtrage) et de leurs éventuelles conséquence (prendre l'exemple concret des recommandations YouTube et des vidéos complotistes) :
+Leurs expliquer le principe de fonctionnement des système de recommandation avec l'exemple concret de la recommandation de musique de Spotify et du schéma fourni dans le support. Leur parler ensuite du problème que cela engendre (bulles de filtrage) et de leurs éventuelles conséquences (prendre l'exemple concret des recommandations YouTube et des vidéos complotistes) :
 - Que se passe-t-il si l'on ne consomme que du contenu qui nous plaît ou pourrait nous plaire ?
 - Que se passe-t-il du point de vue de l'esprit critique ?
 - Quel est le problème de ne pas être confronté à d'autres points de vue ?
